@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## Hi there. I'm Burak...:wave:
-- :telescope: I’m working on frontend and mobile app development (JavaScript | React )
-- :seedling: I’m learning backend development (MongoDB | Django)
+- :telescope: I’m working on frontend  development (JavaScript | React )
+- :seedling: I’m learning backend development (Django)
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:bgfb8328@hotmail.com)
